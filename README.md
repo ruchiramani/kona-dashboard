@@ -39,5 +39,6 @@ If you already have Ruby 3.1.0 and Rails 7.0.3 installed, skip this step and go 
 5) Run app
           
           bin/dev
+          Go to localhost:3000
          
 
