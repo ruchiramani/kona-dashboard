@@ -2,12 +2,12 @@
 Kona Dashboard
 ========
 
-This app is built using Ruby 3.0.0 and Rails 7.0.3. 
+This app is built using Ruby 3.1.0 and Rails 7.0.3. 
 
 
 Installation
 ------------
-If you already have Ruby 3.0.0 and Rails 7.0.3 installed, skip this step and go to step 3.
+If you already have Ruby 3.1.0 and Rails 7.0.3 installed, skip this step and go to step 3.
 
 
 1) Install Ruby 
